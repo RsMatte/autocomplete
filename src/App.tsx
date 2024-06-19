@@ -1,5 +1,7 @@
+import AutoComplete from "./components/autocomplete"
+
 function App() {
-  return <div>Autocomplete</div>;
+  return <AutoComplete />;
 }
 
 export default App
